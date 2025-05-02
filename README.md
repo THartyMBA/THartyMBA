@@ -46,4 +46,4 @@ I'm always interested in connecting with professionals seeking to elevate their 
 ---
 *"Elevating careers through strategic insights and proven methodologies"*
 
-© 2024 Dr. Tom Harty. All rights reserved.
+© 2025 Dr. Tom Harty. All rights reserved.
