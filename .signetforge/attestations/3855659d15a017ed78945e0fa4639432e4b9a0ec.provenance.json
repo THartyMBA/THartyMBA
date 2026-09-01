@@ -1,0 +1,42 @@
+{
+  "kind": "signetforge.tree.v1",
+  "workId": "github-THartyMBA-THartyMBA-3855659d15a0",
+  "label": "THartyMBA/THartyMBA @ 3855659d15a0",
+  "statement": "I attest that I originated this exact filtered GitHub repository projection from THartyMBA/THartyMBA branch main at commit 3855659d15a017ed78945e0fa4639432e4b9a0ec, as of the recorded time.",
+  "canonicalizationMode": "code",
+  "fileCount": 1,
+  "files": [
+    {
+      "path": "README.md",
+      "hash": "sha256:9c15555aa2eb58a3068b7120da862f539f28320deb30566ba0863f9586e90c3b"
+    }
+  ],
+  "merkleRoot": "sha256:1d30d4042f904456ed239f9194c93713567424e544c21a906a769d14816b85d6",
+  "author": {
+    "name": "THartyMBA"
+  },
+  "signer": {
+    "alg": "Ed25519",
+    "kid": "sf_e01d98b58b9d7954",
+    "publicKey": "_GO5U5zz-3zHzIL0uJkC9E3_2T28nPD2dzaKEYBkSzs",
+    "fingerprint": "e01d98b58b9d7954eb6c73683fe533fb86402f34bd1c9ba569c3cf24508aee77"
+  },
+  "createdAt": "2026-09-01T17:15:38.658Z",
+  "timestampProofs": [
+    {
+      "type": "local",
+      "format": "iso8601",
+      "issuedAt": "2026-09-01T17:15:38.658Z",
+      "authority": "local-clock",
+      "status": "unanchored"
+    }
+  ],
+  "signature": {
+    "algorithm": "Ed25519",
+    "canonicalization": "canonical-json-sorted-keys-v1",
+    "keyId": "sf_e01d98b58b9d7954",
+    "publicKey": "_GO5U5zz-3zHzIL0uJkC9E3_2T28nPD2dzaKEYBkSzs",
+    "fingerprint": "e01d98b58b9d7954eb6c73683fe533fb86402f34bd1c9ba569c3cf24508aee77",
+    "value": "pkdPljlepue79oDstbWn9qcgAgrD8WU6_LgdY7Cy50v_hvsYZbJ2_hvdkwd8UdI0Wl4nSsec1wG-pLL6_X7rDg"
+  }
+}
